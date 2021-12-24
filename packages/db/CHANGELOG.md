@@ -1,5 +1,12 @@
 # Changelog
 
+### [4.0.4](https://www.github.com/web3-storage/web3.storage/compare/db-v4.0.3...db-v4.0.4) (2021-12-24)
+
+
+### Bug Fixes
+
+* backup unique constraint ([#795](https://www.github.com/web3-storage/web3.storage/issues/795)) ([b19790f](https://www.github.com/web3-storage/web3.storage/commit/b19790f621fd6544f3abdf944edde95697227f76))
+
 ### [4.0.3](https://www.github.com/web3-storage/web3.storage/compare/db-v4.0.2...db-v4.0.3) (2021-12-14)
 
 
